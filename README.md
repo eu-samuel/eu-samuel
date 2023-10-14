@@ -1,4 +1,4 @@
-### Olá, me chamo Samuel e sou desenvolvedor full stack. Sua visita ao meu perfil é mui bem-vinda! 👋
+### Olá, me chamo Samuel e sou desenvolvedor full stack. 👋
 
 <!--
 - 🔭 Atualmente estou trabalhando em ...
